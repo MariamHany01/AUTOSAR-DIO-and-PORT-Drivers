@@ -1,6 +1,3 @@
-**Project README**
-
----
 
 **Project Title: TM4C ARM-based Microcontroller autosar Drivers and Simple RTOS Implementation**
 
